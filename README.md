@@ -14,5 +14,4 @@
   
   **所以在此开创这个站点，希望有兴趣的朋友们，可以加入进来！**
   
-  
-https://github.com/UNIONDONG/Get_Pic_Url/blob/master/img/%E7%A7%BB%E6%AD%A5IT%E4%B9%8B%E5%B7%85.png
+
